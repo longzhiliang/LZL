@@ -1,2 +1,0 @@
-The newly update 2018/04/10
-   -- fix the parallel problem
