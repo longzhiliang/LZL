@@ -1,1 +1,1 @@
-The SPAMRI toolbox in github will not be updated in future. please go to the NITRC website (https://www.nitrc.org/projects/longzhiliangmri/) for download
+The SPAMRI toolbox can also be downloaded on the NITRC website (https://www.nitrc.org/projects/longzhiliangmri/).
